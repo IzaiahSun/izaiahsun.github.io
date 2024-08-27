@@ -19,10 +19,13 @@ google_site_verification :  # get google_site_verification from https://search.g
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
+# bibtex
+bibtex                   : "assets/bibtex/myref.bib"
+
 # Site Author
 author:
   name             : "Yuqiang Sun"
-  avatar           : "images/avatar.png"
+  avatar           : "/images/avatar.png"
   bio              : "Nanyang Technological University"
   location         : "Singapore"
   employer         :

@@ -32,7 +32,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 - *2023.07*: &nbsp;🎉🎉 Our paper "Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration" was accepted by ASE 2023! 
 - *2021.08*: &nbsp;🎉🎉 He joined Nanyang Technological University as a Ph.D. student. 
 
-# 📝 Publications 
+# 📝 Selected Publications [[Full Publication](/publication)]
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -45,7 +45,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
   - Han Liu, Daoyuan Wu, **Yuqiang Sun**, Haijun Wang, Kaixuan Li, Yang Liu, Yixiang Chen
   - Usenix Security 2024 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:WF5omc3nYNoC'></span></strong>
   - This paper is about using static analysis to find the unsafe implementations of OpenZeppelin based projects.
-  - [Slides for Usenix Security 2024](assets/pdf/ZepScope.pdf)
+  - [Slides for Usenix Security 2024](/assets/pdf/ZepScope.pdf)
   - ZepScope is now open-sourced. Find more at [this website](https://zepscope.github.io/).
 
 - [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/abs/2405.02580) 
@@ -71,7 +71,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
   - **Yuqiang Sun**, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu
   - The 46th IEEE/ACM International Conference on Software Engineering (ICSE 2024) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:YsMSGLbcyi4C'></span></strong>
   - This paper is about combining LLM with static analysis method to detect vulnerabilities in smart contracts. 
-  - [Slides for ICSE 2024](assets/pdf/GPTScanSlides.pdf)
+  - [Slides for ICSE 2024](/assets/pdf/GPTScanSlides.pdf)
   - GPTScan is now open-sourced. Find more at [this website](https://gptscan.github.io/).
 
 - [Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration](https://ieeexplore.ieee.org/document/10298552/) 
@@ -79,23 +79,6 @@ He hopes to collaborate with more innovative researchers on various exciting top
   - **Yuqiang Sun**, Zhengzi Xu, Chengwei Liu, Yiran Zhang, Yang Liu
   - The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:qjMakFHDy7sC'></span></strong>
   - This paper is about measuring the contribution of developers in open source projects. We proposed an approach to fuse information from different dimensions for a more comprehensive evaluation of developer contribution. 
-
-- [WAIN: Automatic Web Application Identification and Naming Method](https://dl.acm.org/doi/abs/10.1145/3545258.3545271) 
-![](https://img.shields.io/badge/CCF-C-green?style=flat-square)
-  - **Yuqiang Sun**, Dunhan Li, Yixin Wu, Xuelin Wan, Cheng Huang
-  - Proceedings of the 13th Asia-Pacific Symposium on Internetware, 2022 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:2osOgNQ5qMEC'></span></strong>
-  - This paper is about generating fingerprints for unknown web assets for better management.
-
-- [MineDetector: JavaScript Browser-side Cryptomining Detection using Static Methods](https://ieeexplore.ieee.org/abstract/document/9724605/)
-  - Peiran Wang, **Yuqiang Sun**, Cheng Huang, Yutong Du, Genpei Liang, Gang Long
-  - 2021 IEEE 24th International Conference on Computational Science and Engineering (CSE) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:d1gkVwhDpl0C'></span></strong>
-  - This paper is about detecting cryptomining in JavaScript code using machine learning methods.
-
-- [Session-Based Webshell Detection Using Machine Learning in Web Logs](https://www.hindawi.com/journals/scn/2019/3093809/)
-![](https://img.shields.io/badge/CCF-C-green?style=flat-square)
-  - Yixin Wu, **Yuqiang Sun**, Cheng Huang, Peng Jia, Luping Liu
-  - Security and Communication Networks, 2019 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:u5HHmVD_uO8C'></span></strong>
-  - This paper is about detecting webshell activities through logs of the web server with machine learning method.
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -107,7 +90,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 # 💬 Invited Talks
 - *2024.05*, Transforming Language Models into Smart Contract Audit Experts. GeekCon 2024 @ Singapore
-  - [Slides](assets/pdf/geekcon2024.pdf)
+  - [Slides](/assets/pdf/geekcon2024.pdf)
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
