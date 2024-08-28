@@ -3,17 +3,17 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  # - title: "News"
+  #   url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  # - title: "Selected Publications"
+  #   url: "/#-publications"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  # - title: "Educations"
+  #   url: "/#-educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
@@ -21,14 +21,14 @@ main:
   # - title: "Internships"
   #   url: "/#-internships"
 
-  - title: "Services"
-    url: "/#-services"
+  # - title: "Services"
+  #   url: "/#-services"
 
-  - title: "Teaching"
-    url: "/#-teaching"
+  # - title: "Teaching"
+  #   url: "/#-teaching"
 
-  - title: "Full Publication List"
+  - title: "Publication List"
     url: "/publication/"
 
   - title: "CV"
-    url: "/"
+    url: "https://cdn.jsdelivr.net/gh/IzaiahSun/izaiahsun.github.io@cv/cv.pdf"
