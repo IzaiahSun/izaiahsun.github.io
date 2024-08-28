@@ -32,7 +32,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 - *2023.07*: &nbsp;🎉🎉 Our paper "Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration" was accepted by ASE 2023! 
 - *2021.08*: &nbsp;🎉🎉 He joined Nanyang Technological University as a Ph.D. student. 
 
-# 📝 Selected Publications [[Full Publication](/publication)]
+# 📝 Selected Publications [[Full List](/publication/)]
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->

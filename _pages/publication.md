@@ -56,7 +56,7 @@ redirect_from:
             }
         }
         // finally, join the authors and bold the name in myname
-        var author = authors.join(",");
+        var author = authors.join(", ");
         author = author.replace(myname, "<b>" + myname + "</b>");
         return author;
     }
