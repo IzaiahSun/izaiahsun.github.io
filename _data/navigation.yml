@@ -26,3 +26,9 @@ main:
 
   - title: "Teaching"
     url: "/#-teaching"
+
+  - title: "Full Publication List"
+    url: "/publication/"
+
+  - title: "CV"
+    url: "/"
