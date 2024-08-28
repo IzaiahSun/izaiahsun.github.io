@@ -1,0 +1,40 @@
+name: LaTeX Action
+on: 
+  page_build: 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Copy bibtex
+        run: |
+          cp assets/bibtex/myref.bib cv own-bib.bib
+      - uses: fudan-mse/latex-action@v0.0.1
+        with:
+          # The root LaTeX file to be compiled
+          root_file: cv-llt.tex
+          # The working directory for the LaTeX engine
+          working_directory: cv # optional
+          # The LaTeX engine to be invoked
+          # compiler: # optional, default is latexmk
+          # Extra arguments to be passed to the LaTeX engine
+          args: -xelatex # optional, default is -pdf -file-line-error -interaction=nonstopmode
+          # Install extra packages by tlmgr
+          # extra_packages: # optional
+          # Install extra packages by apk
+          # extra_system_packages: # optional
+
+      - name: Upload to GitHub
+        run: |
+          mkdir cv_output
+          cp cv/cv-llt.pdf cv_output/cv.pdf
+          cd cv_output
+          git init
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git add *.pdf
+          git commit -m "Updated CV"
+          git push "${remote_repo}" HEAD:cv --force
+          
