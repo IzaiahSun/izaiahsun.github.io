@@ -43,7 +43,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 - [Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-han)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)[![](https://img.shields.io/badge/UsenixSecurity-2024-blue?style=flat-square)](https://www.usenix.org/conference/usenixsecurity24/presentation/liu-han)
   - Han Liu, Daoyuan Wu, **Yuqiang Sun**, Haijun Wang, Kaixuan Li, Yang Liu, Yixiang Chen
-  - Usenix Security 2024 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:WF5omc3nYNoC'></span></strong>
+  - Usenix Security 2024 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:_FxGoFyzp5QC'></span></strong>
   - This paper is about using static analysis to find the unsafe implementations of OpenZeppelin based projects.
   - [Slides for Usenix Security 2024](/assets/pdf/ZepScope.pdf)
   - ZepScope is now open-sourced. Find more at [this website](https://zepscope.github.io/).
