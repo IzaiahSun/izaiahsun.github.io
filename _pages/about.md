@@ -97,10 +97,10 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 # 📫 Services
 
-- Junior PC: MSR 2024
+- Junior PC: MSR 2024/2025
 - Artifact Evaluation: Usenix Security 2024, ISSTA 2024
-- Journals: TDSC
-- Sub-reviewer: ICSE, ISSTA, ASE, RAID, AisaCCS, ICICS
+- Journals: TDSC, TOSEM
+- Sub-reviewer: ICSE, ISSTA, ASE, RAID, AisaCCS, ICICS, Usenix Security, CCS, NDSS
 
 
 # 📚 Teaching
