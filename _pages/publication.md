@@ -100,8 +100,8 @@ redirect_from:
         } else {
             var ccf = "";
         }
-        if ("award" in entry){
-            var award = awardBadge(entry["award"]);
+        if ("AWARD" in entry){
+            var award = awardBadge(entry["AWARD"]);
         } else {
             var award = "";
         }
