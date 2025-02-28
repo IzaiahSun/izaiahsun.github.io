@@ -44,6 +44,10 @@ redirect_from:
         }
         return badge;
     }
+    var awardBadge = function(value){
+        var badge = "<img src='https://img.shields.io/badge/" + value + "-gold?style=flat-square'>";
+        return badge;
+    }
     var authorBold = function(value){
         // first split by end
         var authors = value.split(" and ");
@@ -96,13 +100,18 @@ redirect_from:
         } else {
             var ccf = "";
         }
+        if ("award" in entry){
+            var award = awardBadge(entry["award"]);
+        } else {
+            var award = "";
+        }
         if("OPENSOURCE" in entry){
             var opensource = "<li>This paper is open-sourced at <a href='" + entry["OPENSOURCE"] + "'>this website</a>.</li>";
         }else{
             var opensource = "";
         }
         html += "<li>";
-        html += "<span>" + year + ", " + title + "</span>\n" + ccf;
+        html += "<span>" + year + ", " + title + "</span>\n" + ccf + award;
         html += "<ul>";
         html += "<li>" + authorBold(author) + "</li>";
         html += "<li>" + venue + "</li>";
