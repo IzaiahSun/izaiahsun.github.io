@@ -48,8 +48,10 @@ He hopes to collaborate with more innovative researchers on various exciting top
   - [Slides for Usenix Security 2024](/assets/pdf/ZepScope.pdf)
   - ZepScope is now open-sourced. Find more at [this website](https://zepscope.github.io/).
 
-- [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/abs/2405.02580) 
-[![](https://img.shields.io/badge/arXiv-2405.02580-B31B1B?style=flat-square)](https://arxiv.org/abs/2405.02580) ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/NDSS-2025-blue?style=flat-square)]()
+- [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://www.ndss-symposium.org/ndss-paper/propertygpt-llm-driven-formal-verification-of-smart-contracts-through-retrieval-augmented-property-generation/) 
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)
+[![](https://img.shields.io/badge/NDSS-2025-blue?style=flat-square)](https://www.ndss-symposium.org/ndss-paper/propertygpt-llm-driven-formal-verification-of-smart-contracts-through-retrieval-augmented-property-generation/)
+[![](https://img.shields.io/badge/arXiv-2405.02580-B31B1B?style=flat-square)](https://arxiv.org/abs/2405.02580) 
   - Ye Liu, Yue Xue, Daoyuan Wu, **Yuqiang Sun**, Yi Li, Miaolei Shi, Yang Liu
   - Network and Distributed System Security (NDSS) Symposium 2025 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:eQOLeE2rZwMC'></span></strong>
   - The paper got distinguish paper award from NDSS 2025 🎉🎉!
