@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuqiang Sun"
-description              : "He is a forth year Ph.D. candidate working on software engineering and security."
+description              : "He is a forth year Ph.D. candidate working on software engineering and security. He is also a research manager at NTU."
 repository               : "izaiahsun/izaiahsun.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -31,7 +31,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KAWDTzsAAAAJ"
-  email            : "suny0056@e.ntu.edu.sg"
+  email            : "yuqiang.sun@ntu.edu.sg"
   researchgate     : "https://www.researchgate.net/profile/Yuqiang-Sun-5" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
