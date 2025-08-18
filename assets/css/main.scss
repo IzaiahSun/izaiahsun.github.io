@@ -107,3 +107,30 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.publication-list {
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    margin-bottom: 1.5em;
+  }
+
+  h2 {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.5em;
+  }
+
+  span {
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 1em;
+    margin-top: 0.5em;
+  }
+}

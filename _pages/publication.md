@@ -74,16 +74,19 @@ redirect_from:
     parser.setInput(bibtex_string);
     parser.bibtex();
     let entries = Object.values(parser.getEntries());
-    let html = "<ul>";
+    let html = "<ul class='publication-list'>";
     // sort by year, descending
     entries.sort(function(a, b) {
         return b["YEAR"] - a["YEAR"];
     });
-    let prev_year = 0;
-    for(let entry of entries) {
+    for(let i = 0; i < entries.length; i++) {
+        let entry = entries[i];
         let title = fixValue(entry["TITLE"]);
         let author = fixValue(entry["AUTHOR"]);
         let year = entry["YEAR"];
+        if (i == 0 || year != entries[i-1]["YEAR"]) {
+            html += "<h2>" + year + "</h2>";
+        }
         if ("JOURNAL" in entry) {
             var venue = fixValue(entry["JOURNAL"]);
         } else if ("BOOKTITLE" in entry) {
@@ -111,7 +114,7 @@ redirect_from:
             var opensource = "";
         }
         html += "<li>";
-        html += "<span>" + year + ", " + title + "</span>\n" + ccf + award;
+        html += "<span>" + title + "</span>\n" + ccf + award;
         html += "<ul>";
         html += "<li>" + authorBold(author) + "</li>";
         html += "<li>" + venue + "</li>";
