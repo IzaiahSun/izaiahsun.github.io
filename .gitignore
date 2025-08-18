@@ -1,3 +1,15 @@
 _site/
 push.sh
 .DS_Store
+cv/*.aux
+cv/*.pdf
+cv/*.fdb_latexmk
+cv/*.fls
+cv/*.log
+cv/*.out
+cv/*.toc
+cv/*.synctex.gz
+cv/*.bcf
+cv/*.run.xml
+cv/*.bbl
+cv/*.blg

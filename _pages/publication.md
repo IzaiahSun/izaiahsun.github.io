@@ -48,6 +48,10 @@ redirect_from:
         var badge = "<img src='https://img.shields.io/badge/" + value + "-gold?style=flat-square'>";
         return badge;
     }
+    var opensourceBadge = function(value){
+        var badge = "<a href='" + value + "'><img src='https://img.shields.io/badge/Open-Source-blue?style=flat-square'></a>";
+        return badge;
+    }
     var authorBold = function(value){
         // first split by end
         var authors = value.split(" and ");
@@ -109,7 +113,7 @@ redirect_from:
             var award = "";
         }
         if("OPENSOURCE" in entry){
-            var opensource = "<li>This paper is open-sourced at <a href='" + entry["OPENSOURCE"] + "'>this website</a>.</li>";
+            var opensource = opensourceBadge(entry["OPENSOURCE"]);
         }else{
             var opensource = "";
         }
@@ -118,10 +122,9 @@ redirect_from:
         html += "<ul>";
         html += "<li>" + authorBold(author) + "</li>";
         html += "<li><em>" + venue + "</em></li>";
-        if (ccf != "" || award != "") {
-            html += "<li>" + ccf + award + "</li>";
+        if (ccf != "" || award != "" || opensource != "") {
+            html += "<li>" + ccf + award + opensource + "</li>";
         }
-        html += opensource;
         html += "</ul>";
         html += "</li>";
     }
