@@ -118,12 +118,15 @@ redirect_from:
             var opensource = "";
         }
         html += "<li>";
+        if (ccf != ""){
+            title = ccf + title;
+        }
         html += "<span>" + title + "</span>";
         html += "<ul>";
         html += "<li>" + authorBold(author) + "</li>";
         html += "<li><em>" + venue + "</em></li>";
-        if (ccf != "" || award != "" || opensource != "") {
-            html += "<li>" + ccf + award + opensource + "</li>";
+        if (award != "" || opensource != "") {
+            html += "<li>" + award + opensource + "</li>";
         }
         html += "</ul>";
         html += "</li>";
