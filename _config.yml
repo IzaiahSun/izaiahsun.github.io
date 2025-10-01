@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuqiang Sun"
-description              : "He is a forth year Ph.D. candidate working on software engineering and security. He is also a research manager at NTU."
+title                    : "Yuqiang Sun, Ph.D."
+description              : "He is a research fellow at NTU."
 repository               : "izaiahsun/izaiahsun.github.io"
 google_scholar_stats_use_cdn : true
 

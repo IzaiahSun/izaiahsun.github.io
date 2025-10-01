@@ -17,20 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuqiang Sun (孙宇强 in Chinese) is now a Ph.D. student in School of Computer Science and Engineering @ Nanyang Technological University, supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
+Yuqiang Sun (孙宇强 in Chinese) is now a research fellow at Nanyang Technological University. 
+He got his Ph.D. degree in School of Computer Science and Engineering @ Nanyang Technological University, supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
 Before Ph.D. study, he got his bachelor degree in Sichuan University.
 His research interests include program analysis, vulnerability detection and patch generation.
-He hopes to collaborate with more innovative researchers on various exciting topics in software engineering, program analysis, vulnerability detection, and program synthesis.
+He hopes to collaborate with more innovative researchers on various exciting topics in software engineering, program analysis, vulnerability detection, and self-evolving LLM agents in software engineering or software security.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
+<!-- # 🔥 News
+- *2025.099: &nbsp;🎉🎉 He is now graduated from NTU!
 - *2024.01*: &nbsp;🎉🎉 Happy new year! Our preprint "LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning" was available on Arxiv! 
 - *2023.12*: &nbsp;🎉🎉 Our paper "GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis" was accepted to appear in ACM SIGSOFT International Conference on Software Engineering (ICSE), Lisbon, Portugal, 2024.
 - *2023.08*: &nbsp;🎉🎉 He passed Qualifying Examination (QE) and became a Ph.D. candidate.
 - *2023.07*: &nbsp;🎉🎉 Our paper "Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration" was accepted by ASE 2023! 
-- *2021.08*: &nbsp;🎉🎉 He joined Nanyang Technological University as a Ph.D. student. 
+- *2021.08*: &nbsp;🎉🎉 He joined Nanyang Technological University as a Ph.D. student.  -->
 
 # 📝 Selected Publications [[Full List](/publication/)]
 
