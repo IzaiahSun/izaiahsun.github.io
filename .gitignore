@@ -13,3 +13,5 @@ cv/*.bcf
 cv/*.run.xml
 cv/*.bbl
 cv/*.blg
+cv/*.xdv
+cv/*.bib
