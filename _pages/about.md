@@ -34,6 +34,13 @@ He hopes to collaborate with more innovative researchers on various exciting top
 - *2023.07*: &nbsp;🎉🎉 Our paper "Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration" was accepted by ASE 2023! 
 - *2021.08*: &nbsp;🎉🎉 He joined Nanyang Technological University as a Ph.D. student.  -->
 
+# 📖 Educations
+- *2021.08 - 2025.09*, Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
+- *2017.09 - 2021.06*, Undergraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
+
+# 💻 Working Experience
+- *2025.08 - now*, Research Engineer, Nanyang Technological University, Singapore.
+
 # 📝 Selected Publications [[Full List](/publication/)]
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -88,10 +95,6 @@ He hopes to collaborate with more innovative researchers on various exciting top
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-# 📖 Educations
-- *2021.08 - Now*, Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
-- *2017.09 - 2021.06*, Undergraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
 
 # 💬 Invited Talks
 - *2024.05*, Transforming Language Models into Smart Contract Audit Experts. GeekCon 2024 @ Singapore
