@@ -39,7 +39,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 - *2017.09 - 2021.06*, Undergraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
 
 # 💻 Working Experience
-- *2025.04 - now*, Cofounder and Research Lead, Agent LISA.
+- *2025.01 - now*, Cofounder and Research Lead, Agent LISA.
 - *2025.11 - now*, Research Fellow, Nanyang Technological University, Singapore.
 - *2025.04 - 2025.10*, Research Engineer, Nanyang Technological University, Singapore.
 
